@@ -1,3 +1,11 @@
+This is a fork of ikew0ng's SwipeBackLayout:
+https://github.com/ikew0ng/SwipeBackLayout
+
+This fork contains an update to use ActionBarCompat. This allows users to use the new Toolbar widget. 
+
+Original Readme: 
+
+
 SwipeBackLayout
 ===
 
